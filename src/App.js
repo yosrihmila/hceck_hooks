@@ -6,7 +6,6 @@ function App() {
 return (
     <div>
         <Movielist/>
-        <Moviecard></Moviecard>
     </div>
     )
 }
